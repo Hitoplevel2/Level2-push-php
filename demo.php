@@ -92,5 +92,6 @@ class GrpcService
         foreach ($stream as $v) {
             print_r($v);
         }
+    }
     
 }
